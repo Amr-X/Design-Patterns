@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="Composite/Composite.csproj" />
   <Project Path="Factory/Factory.csproj" />
   <Project Path="Adapter/Adapter.csproj" />
   <Project Path="Bridge/Bridge.csproj" />
