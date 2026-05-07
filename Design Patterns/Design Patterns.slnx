@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="Factory/Factory.csproj" />
+  <Project Path="Adapter/Adapter.csproj" />
   <Project Path="Builder/Builder.csproj" />
   <Project Path="Prototype/Prototype.csproj" />
   <Project Path="Singleton/Singleton.csproj" />
